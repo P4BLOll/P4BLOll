@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+</div>
 <h1 align="center">Hey 👋, I'm Pablo</h1>
 <h3 align="center">💻 Software Development Student | 🚀 Learning & Building</h3>
 
