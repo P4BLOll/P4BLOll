@@ -3,16 +3,15 @@
 
   <h1>Hey 👋, I'm Pablo</h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Software+Development+Student;Full-Stack+%26+Mobile+Developer;IoT+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Systems+Analysis+And+Development+Student;Full-Stack+%26;" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <p>
-    🎓 Studying <b>Análise e Desenvolvimento de Sistemas</b> at FATEC Zona Leste<br>
-    💻 Focusing on <b>React Native, Next.js, Flutter</b> and <b>IoT (ESP32)</b><br>
-    🐧 Daily driving <b>Fedora Linux</b> & passionate about systems architecture<br>
+    🎓 Studying <b>Systems Analysis and Development</b> at FATEC Zona Leste<br>
+    📝 Technical certificate in Systems Development from Etec da Zona Leste.
     ☕ Always looking to build clean, minimalist, and functional solutions
   </p>
 </div>
