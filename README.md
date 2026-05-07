@@ -21,18 +21,20 @@
 <h2 align="center">⚙️ Tech Stack</h2>
 <div align="center">
   <p><b>Languages & Frameworks</b></p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,spring,html,css,react,tailwind,nodejs,react-native" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,spring,html,css,react,tailwind,nodejs" />
   <br><br>
   <p><b>Tools & Infrastructure</b></p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,linux,git,github,vscode,figma,docker,mongodb" />
 </div>
 
 <br/>
 
 <h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=P4BLOll&show_icons=true&theme=midnight-purple&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=P4BLOll&layout=compact&theme=midnight-purple&hide_border=true"/>
+  <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=P4BLOll&theme=discord_old_blurple" alt="GitHub Stats" />
+
+  <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=P4BLOll&theme=discord_old_blurple" alt="Repos Per Language" />
 </div>
 
 <br/>
