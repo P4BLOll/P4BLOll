@@ -39,7 +39,7 @@
 
 <h2 align="center">📫 Let's Connect!</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/pablo-santos435/">
+  <a href="https://www.linkedin.com/in/pablo-santos435">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:pablosousasantos19@gmail.com">
