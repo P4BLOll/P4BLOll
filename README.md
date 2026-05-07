@@ -21,7 +21,7 @@
 <h2 align="center">⚙️ Tech Stack</h2>
 <div align="center">
   <p><b>Languages & Frameworks</b></p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,html,css,react,nextjs,tailwind,flutter,nodejs" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,spring,html,css,react,tailwind,nodejs,react-native" />
   <br><br>
   <p><b>Tools & Infrastructure</b></p>
   <img src="https://skillicons.dev/icons?i=mysql,firebase,linux,git,github,vscode" />
@@ -39,13 +39,10 @@
 
 <h2 align="center">📫 Let's Connect!</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario-aqui/">
+  <a href="https://www.linkedin.com/in/pablo-santos435/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/pab1o_santos/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:pablosousa386@gmail.com">
+  <a href="mailto:pablosousasantos19@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
