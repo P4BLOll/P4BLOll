@@ -3,7 +3,7 @@
 
   <h1>Hey 👋, I'm Pablo</h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=Systems+Analysis+And+Development+Student;Full-Stack+%26;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=Systems+Analysis+And+Development+Student;Full-Stack+Developer;%26;" alt="Typing SVG" />
 </div>
 
 <br/>
