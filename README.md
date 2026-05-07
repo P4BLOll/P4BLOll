@@ -31,8 +31,8 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=P4BL0ll&show_icons=true&theme=midnight-purple&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=P4BL0ll&layout=compact&theme=midnight-purple&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=P4BLOll&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=P4BLOll&layout=compact&theme=midnight-purple&hide_border=true"/>
 </div>
 
 <br/>
